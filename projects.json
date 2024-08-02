@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "url": "https://img.freepik.com/free-photo/engineer-looking-cad-software-3d-prototype-design-concept-container-working-overtime-construction-company_482257-5171.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 2,
+      "name": "Project 2",
+      "url": "https://cdn.pixabay.com/photo/2018/09/30/14/52/commerce-3713687_640.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Project 3",
+      "url": "https://img.freepik.com/free-vector/user-panel-dashboard-template_23-2148371011.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": 4,
+      "name": "Project 4",
+      "url": "https://img.freepik.com/free-vector/customer-relationship-management-banner_107791-8648.jpg?semt=ais_hybrid"
+    }
+  ]
+}
